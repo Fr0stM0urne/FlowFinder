@@ -1,4 +1,4 @@
-# wearflow
+# FlowFinder
 Static Analysis tool to compute sensitive data flows across mobile and companion Android apps.
 
 #TODO
@@ -23,11 +23,11 @@ https://github.com/USC-SQL/Violist
 4 - SourcesAndSinks.txt, AndroidCallbacks.txt, and EasyTaintWrapperSource.txt files from this repository.
 5 - Mobile and wearable APK.
 
-# How to use Wearflow
+# How to use FlowFinder
 
 You can either run directly the file wearflow-cmd-jar-with-dependencies.jar or build WearFlow with maven.
 
-To build WearFlow:
+To build FlowFinder:
 
 1- clone this repo
 
